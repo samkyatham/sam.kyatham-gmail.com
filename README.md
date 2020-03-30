@@ -1,2 +1,3 @@
-# sam.kyatham-gmail.com
-DocGen - a document generation server
+# DocGen - a document generation server
+
+
